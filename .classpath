@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="C:/Users/Yakup/Downloads/commons-lang3-3.12.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Yakup/Downloads/guava-31.0.1-jre.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Yakup/Downloads/guava-31.0.1-jre-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yakup/Downloads/lombok-1.18.24.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

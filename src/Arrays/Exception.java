@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 public class Exception {
 
-	@SuppressWarnings("deprecation")
+
+	@SuppressWarnings({ "removal", "deprecation" })
 	public static void main(String[] args) {
 		
 		Number[] numbers = new Number[3];
